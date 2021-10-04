@@ -6,16 +6,16 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-    <a href="#about-the-project">Setup & Usage</a>
+    <a href="#setup--usage">Setup & Usage</a>
     <ul>
-        <li><a href="#built-with">Validating the Session Token</a></li>
-        <li><a href="#built-with">Getting User Information</a></li>
+        <li><a href="#validating-the-session-token">Validating the Session Token</a></li>
+        <li><a href="#getting-user-information">Getting User Information</a></li>
     </ul>
     </li>
     <li>
-    <a href="#roadmap">Security</a>
+    <a href="#security">Security</a>
     <ul>
-        <li><a href="#built-with">Data Collection Policy</a></li>
+        <li><a href="#data-collection-policy">Data Collection Policy</a></li>
     </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -75,4 +75,4 @@ For Developers & Users, please use our Support Contact Options in order to get i
 
 Via Mail: `support@namespace.media`</br>
 Via Twitter: `https://twitter.com/namespacemedia`</br>
-Via Discord: `https://discord.gg/6385g6T `
+Via Discord: `https://discord.gg/6385g6T`
